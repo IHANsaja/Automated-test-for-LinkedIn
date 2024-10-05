@@ -1,1 +1,1 @@
-# Automated-test-for-LinkedIn
+# Automated-test-for-LinkedIn-Profile-Name-Check
